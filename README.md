@@ -32,8 +32,10 @@ A hospital management dashboard built with **Next.js**, **TypeScript**, and **Ta
 - **Desktop View With Sidebar Closed**
 ![Desktop View With Sidebar Closed](./public/project-image-2.png)
 - **Mobile View With Sidebar Open**
+
 ![Mobile View With Sidebar Open](./public/project-image-3.png)
 - **Mobile View With Sidebar Closed**
+
 ![Mobile View With Sidebar Closed](./public/project-image-4.png)
 
 ---
